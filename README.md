@@ -1,8 +1,17 @@
-# One-Piece-Wallpaper
-Automatically changes your desktop wallpaper with high-quality One Piece images, built with Python and cx_Freeze
+# 🏴‍☠️ One Piece Wallpaper Changer
 
-"A simple Python app that rotates One Piece wallpapers on your desktop."
+Bu proje, masaüstü duvar kağıdınızı rastgele One Piece görselleriyle otomatik olarak değiştiren basit bir Python uygulamasıdır. Uygulama `background.exe` olarak paketlenmiştir ve doğrudan çalıştırılabilir.
 
-"One Piece wallpaper changer for Windows – built with Python, packaged as an EXE."
+## 🚀 Nasıl Kullanılır?
 
-"An auto wallpaper switcher featuring One Piece backgrounds, powered by Python."
+1. **`background.exe`** dosyasını açın.
+2. Program otomatik olarak çalışır ve masaüstü arka planınızı One Piece temalı bir görselle değiştirir.
+3. İnternet bağlantınızın açık olduğundan emin olun, görseller çevrim içi kaynaklardan alınır.
+
+## 🧰 Kullanılan Teknolojiler
+
+- Python 3
+- `ctypes` (duvar kağıdı değiştirmek için)
+- `requests` (görsel indirmek için)
+- `cx_Freeze` (EXE dosyasına dönüştürme)
+
